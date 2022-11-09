@@ -2,3 +2,10 @@
 In Java, a LinkedList is a data structure that stores elements in a non-contiguous location. It is a linear data structure.
 Each data item is called a ‘Node’ and each node has a data part and an address part. The address part stores the link to the next node in 
 the LinkedList
+
+In this post, methods to insert a new node in the linked list are discussed. A node can be added in three ways 
+
+At the front of the linked list  
+After a given node. 
+At the end of the linked list.
+
