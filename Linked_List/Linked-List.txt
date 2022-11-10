@@ -9,3 +9,5 @@ At the front of the linked list
 After a given node. 
 At the end of the linked list.
 
+In this we can see how to join the node at front of linked list
+
