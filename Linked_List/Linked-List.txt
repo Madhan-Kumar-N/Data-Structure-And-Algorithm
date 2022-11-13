@@ -1,5 +1,5 @@
 #Linked List Algorithm in java 
-In Java, a LinkedList is a data structure that stores elements in a non-contiguous location. It is a linear data structure.
+/**In Java, a LinkedList is a data structure that stores elements in a non-contiguous location. It is a linear data structure.
 Each data item is called a ‘Node’ and each node has a data part and an address part. The address part stores the link to the next node in 
 the LinkedList
 
@@ -9,5 +9,7 @@ At the front of the linked list
 After a given node. 
 At the end of the linked list.
 
-In this we can see how to join the node at front of linked list
+In this we can see how to join the node at front of linked list **/
+
+
 
